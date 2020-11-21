@@ -1,0 +1,2 @@
+# Uczelnia
+ Bazdy Danych Projekt
